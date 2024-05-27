@@ -1142,3 +1142,13 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+.row a{
+  color: #080808;
+  
+}
+
+.row a:hover{
+  background: #f3a200;
+}
