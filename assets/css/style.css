@@ -699,7 +699,7 @@ section {
 /*--------------------------------------------------------------
 # My Services
 --------------------------------------------------------------*/
-.services .icon-box {
+.services .icon-boxs {
   padding: 30px;
   position: relative;
   overflow: hidden;
@@ -710,7 +710,7 @@ section {
   border: 5px solid #fff;
 }
 
-.services .icon {
+.services .icons {
   margin: 0 auto 20px auto;
   padding-top: 17px;
   display: inline-block;
@@ -721,36 +721,37 @@ section {
   background: #fff4df;
 }
 
-.services .icon i {
+.services .icons i {
   font-size: 36px;
   line-height: 1;
   color: #ffb727;
 }
 
-.services .title {
+.services .titles {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.services .title a {
+.services .titles a {
   color: #111;
   transition: 0.3s;
 }
 
-.services .description {
-  font-size: 50%;
+.services .descriptions {
   height: 200px;
-  line-height: 10px;
-  font-weight: 800;
+  font-weight: 500;
   margin-bottom: 0;
+    font-size: 14px;
+    line-height: 24px;
+    border-color: #f3a200;
 }
 
-.services .icon-box:hover {
+.services .icon-boxs:hover {
   border-color: #ffb727;
 }
 
-.services .icon-box:hover .title a {
+.services .icon-boxs:hover .title a {
   color: #ffb727;
 }
 
@@ -1144,11 +1145,13 @@ section {
 }
 
 
-.row a{
+.rows a{
   color: #080808;
+  background-color: white;
+  
   
 }
 
-.row a:hover{
+.rows a:hover{
   background: #f3a200;
 }
