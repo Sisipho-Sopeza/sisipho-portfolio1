@@ -1,2 +1,2 @@
 ## Live Demo
-[Click here to view the live demo](http://example.com)
+[Click here to view the live demo](https://sisipho-sopeza.github.io/sisipho-portfolio1/)
